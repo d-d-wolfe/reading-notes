@@ -3,7 +3,7 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 ## Code 102
 
-
+[My Coding 102 Learning Journal]((https://d-d-wolfe.github.io/learning-journal/))
 
 ## Code 201 - Foundations of Software Development
 
