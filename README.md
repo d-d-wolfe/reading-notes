@@ -1,5 +1,5 @@
-# reading-notes
-This repository is for notes on the reading assigned during Code Fellows 102, 201, 301, and 401 courses.
+# Reading Notes
+This repository is for *Dave Wolfe's* notes on the reading assigned during **Code Fellows _102, 201, 301, and 401_** courses.
 
 ## Code 102
 
