@@ -60,7 +60,7 @@
 - If you need to include special characters, on your webpage, that aren't generally on a keyboard, you can use 
   escape characters like <, > and &#169; 
 
-**JavaScript Basics**
+**JavaScript Basics**291
 
 *Programming With JavaScript*
 
