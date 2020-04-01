@@ -11,6 +11,8 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 02](https://d-d-wolfe.github.io/reading-notes/class-02) Text, CSS, Basic JavaScript, and Decisions
 
+[Class 03](https://d-d-wolfe.github.io/reading-notes/class-03) HTML Lists, CSS Boxes, JS Control Flow
+
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
