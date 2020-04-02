@@ -13,6 +13,8 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 03](https://d-d-wolfe.github.io/reading-notes/class-03) HTML Lists, CSS Boxes, JS Control Flow
 
+[Class 04](https://d-d-wolfe.github.io/reading-notes/class-04) HTML Links and Layouts, JS Functions, and 6 Reasons for Pair Programming
+
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
