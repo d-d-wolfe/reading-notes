@@ -17,6 +17,8 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 05](https://d-d-wolfe.github.io/reading-notes/class-05) HTML Images; CSS Color & Text
 
+[Class 06](https://d-d-wolfe.github.io/reading-notes/class-06) Objects and Document Object Model
+
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
