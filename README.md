@@ -23,7 +23,7 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 08](https://d-d-wolfe.github.io/reading-notes/class-08) CSS Layout
 
-[Class 09](https://d-d-wolfe.github.io/reading-notes/class-09)
+[Class 09](https://d-d-wolfe.github.io/reading-notes/class-09) Forms in HTML, Lists, Tables, and Forms in CSS, and Events
 
 ## Code 301 - Intermediate Software Development
 
