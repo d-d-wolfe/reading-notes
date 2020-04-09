@@ -25,6 +25,8 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 09](https://d-d-wolfe.github.io/reading-notes/class-09) Forms in HTML, Lists, Tables, and Forms in CSS, and Events
 
+[Class 10](https://d-d-wolfe.github.io/reading-notes/class-10) Error Handling & Debugging
+
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
