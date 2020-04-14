@@ -29,6 +29,8 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 11](https://d-d-wolfe.github.io/reading-notes/class-11) Images, and Practical Information
 
+[Class 12](https://d-d-wolfe.github.io/reading-notes/class-12) HTML <canvas> Element & Chart.js
+
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
