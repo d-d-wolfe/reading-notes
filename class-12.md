@@ -1,6 +1,6 @@
 [Reading Notes Home](https://d-d-wolfe.github.io/reading-notes/)
 
-**HTML <canvas> Element & Chart.js**
+**HTML *canvas* Element & Chart.js**
 
 **Basic Usage of canvas**
 
