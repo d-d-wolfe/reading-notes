@@ -31,6 +31,8 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 12](https://d-d-wolfe.github.io/reading-notes/class-12) HTML *canvas* Element & Chart.js
 
+[Class 13](https://d-d-wolfe.github.io/reading-notes/class-13) The Past, Present, and Future of Local Storage for Web Applications
+
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
