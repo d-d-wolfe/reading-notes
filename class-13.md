@@ -1,6 +1,6 @@
 [Reading Notes Home](https://d-d-wolfe.github.io/reading-notes/)
 
-**The Past, Present, and Future of Local Storage for Web Applications**
+**Local Storage for Web Applications**
 
 - What is HTML5 Storage? 
 
