@@ -33,7 +33,7 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 13](https://d-d-wolfe.github.io/reading-notes/class-13) Local Storage for Web Applications
 
-[Class 14](https://d-d-wolfe.github.io/reading-notes/class-14)
+[Class 14](https://d-d-wolfe.github.io/reading-notes/class-14) CSS Transforms, Transitions & Animations
 
 ## Code 301 - Intermediate Software Development
 
