@@ -35,6 +35,8 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 14](https://d-d-wolfe.github.io/reading-notes/class-14) CSS Transforms, Transitions & Animations
 
+[Class 15](https://d-d-wolfe.github.io/reading-notes/class-15) What Google Learned About Teams
+
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
