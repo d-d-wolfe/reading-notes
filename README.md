@@ -41,4 +41,6 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 01](https://d-d-wolfe.github.io/reading-notes/301-01) SMACSS and Responsive Web Design
 
+[Class 02](https://d-d-wolfe.github.io/reading-notes/301-02) jQuery and Pair Programming
+
 ## Code 401 - Advanced Software Development
