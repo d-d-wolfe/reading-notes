@@ -43,4 +43,6 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 02](https://d-d-wolfe.github.io/reading-notes/301-02) jQuery and Pair Programming
 
+[Class 03](https://d-d-wolfe.github.io/reading-notes/301-03) Flexbox and Templating
+
 ## Code 401 - Advanced Software Development
