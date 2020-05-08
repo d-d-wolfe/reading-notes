@@ -47,4 +47,6 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 04](https://d-d-wolfe.github.io/reading-notes/301-04) Responsive Web Design and Regular Expressions
 
+[Class 05](https://d-d-wolfe.github.io/reading-notes/301-05) Heroku
+
 ## Code 401 - Advanced Software Development
