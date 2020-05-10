@@ -49,4 +49,6 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 05](https://d-d-wolfe.github.io/reading-notes/301-05) Heroku
 
+[Class 06](https://d-d-wolfe.github.io/reading-notes/301-06) Node.js
+
 ## Code 401 - Advanced Software Development
