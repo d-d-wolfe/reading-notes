@@ -51,4 +51,6 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 06](https://d-d-wolfe.github.io/reading-notes/301-06) Node.js
 
+[Class 07](https://d-d-wolfe.github.io/reading-notes/301-07) APIs Continued
+
 ## Code 401 - Advanced Software Development
