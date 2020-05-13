@@ -53,4 +53,6 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 07](https://d-d-wolfe.github.io/reading-notes/301-07) APIs Continued
 
+[Class 08](https://d-d-wolfe.github.io/reading-notes/301-08) SQL
+
 ## Code 401 - Advanced Software Development
