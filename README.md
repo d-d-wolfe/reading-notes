@@ -55,4 +55,6 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 08](https://d-d-wolfe.github.io/reading-notes/301-08) SQL
 
+[Class 09](https://d-d-wolfe.github.io/reading-notes/301-09) Functional Programming Concepts
+
 ## Code 401 - Advanced Software Development
