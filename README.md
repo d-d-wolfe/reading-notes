@@ -57,4 +57,6 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 09](https://d-d-wolfe.github.io/reading-notes/301-09) Functional Programming Concepts
 
+[Class 10](https://d-d-wolfe.github.io/reading-notes/301-10) 
+
 ## Code 401 - Advanced Software Development
