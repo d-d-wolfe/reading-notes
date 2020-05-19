@@ -61,4 +61,6 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 11](https://d-d-wolfe.github.io/reading-notes/301-11) EJS
 
+[Class 12](https://d-d-wolfe.github.io/reading-notes/301-12) EJS Partials
+
 ## Code 401 - Advanced Software Development
