@@ -67,4 +67,6 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 
 [Class 14](https://d-d-wolfe.github.io/reading-notes/301-14) Database Normalization
 
+[Class 15](https://d-d-wolfe.github.io/reading-notes/301-15) Diversity and Inclusion
+
 ## Code 401 - Advanced Software Development
