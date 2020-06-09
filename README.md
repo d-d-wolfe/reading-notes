@@ -74,4 +74,4 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Prep 00](https://d-d-wolfe.github.io/reading-notes/401-00) Engineering Topics
 
 [Class 01
-](https://d-d-wolfe.github.io/reading-notes/401-01)
+](https://d-d-wolfe.github.io/reading-notes/401-01) Node Ecosystem, TDD, CI/CD
