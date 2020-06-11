@@ -76,3 +76,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 01](https://d-d-wolfe.github.io/reading-notes/401-01) Node Ecosystem, TDD, CI/CD
 
 [Class 02](https://d-d-wolfe.github.io/reading-notes/401-02) Classes, Inheritance, Functional Programming
+
+[Class 03](https://d-d-wolfe.github.io/reading-notes/401-03) Data Modeling and NoSQL Databases
