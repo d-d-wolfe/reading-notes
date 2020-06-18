@@ -86,3 +86,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 07](https://d-d-wolfe.github.io/reading-notes/401-07) Express
 
 [Class 08](https://d-d-wolfe.github.io/reading-notes/401-08) Express Routing & Connected API
+
+[Class 09](https://d-d-wolfe.github.io/reading-notes/401-09) API Server
