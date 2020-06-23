@@ -92,3 +92,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 10](https://d-d-wolfe.github.io/reading-notes/401-10) Stacks and Queues
 
 [Class 11](https://d-d-wolfe.github.io/reading-notes/401-11) Authentication
+
+[Class 12](https://d-d-wolfe.github.io/reading-notes/401-12) OAuth
