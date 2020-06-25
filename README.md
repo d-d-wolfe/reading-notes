@@ -96,3 +96,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 12](https://d-d-wolfe.github.io/reading-notes/401-12) OAuth
 
 [Class 13](https://d-d-wolfe.github.io/reading-notes/401-13) Bearer Authorization
+
+[Class 14](https://d-d-wolfe.github.io/reading-notes/401-14) Access Control (ACL)
