@@ -98,3 +98,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 13](https://d-d-wolfe.github.io/reading-notes/401-13) Bearer Authorization
 
 [Class 14](https://d-d-wolfe.github.io/reading-notes/401-14) Access Control (ACL)
+
+[Class 15](https://d-d-wolfe.github.io/reading-notes/401-15) Trees
