@@ -104,3 +104,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 16](https://d-d-wolfe.github.io/reading-notes/401-16) Event Driven Applications
 
 [Class 17](https://d-d-wolfe.github.io/reading-notes/401-17) TCP Servers
+
+[Class 18](https://d-d-wolfe.github.io/reading-notes/401-18) Socket.io
