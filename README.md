@@ -106,3 +106,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 17](https://d-d-wolfe.github.io/reading-notes/401-17) TCP Servers
 
 [Class 18](https://d-d-wolfe.github.io/reading-notes/401-18) Socket.io
+
+[Class 18](https://d-d-wolfe.github.io/reading-notes/401-18) Message Queues
