@@ -108,3 +108,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 18](https://d-d-wolfe.github.io/reading-notes/401-18) Socket.io
 
 [Class 19](https://d-d-wolfe.github.io/reading-notes/401-19) Message Queues
+
+[Class 26](https://d-d-wolfe.github.io/reading-notes/401-26) Component Based UI
