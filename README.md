@@ -112,3 +112,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 26](https://d-d-wolfe.github.io/reading-notes/401-26) Component Based UI
 
 [Class 27](https://d-d-wolfe.github.io/reading-notes/401-27) React Testing and Deployment
+
+[Class 28](https://d-d-wolfe.github.io/reading-notes/401-28) Props and State
