@@ -116,3 +116,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 28](https://d-d-wolfe.github.io/reading-notes/401-28) Props and State
 
 [Class 29](https://d-d-wolfe.github.io/reading-notes/401-29) Component Composition
+
+[Class 30](https://d-d-wolfe.github.io/reading-notes/401-30) Hash Tables
