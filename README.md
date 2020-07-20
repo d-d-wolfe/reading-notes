@@ -118,3 +118,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 29](https://d-d-wolfe.github.io/reading-notes/401-29) Component Composition
 
 [Class 30](https://d-d-wolfe.github.io/reading-notes/401-30) Hash Tables
+
+[Class 31](https://d-d-wolfe.github.io/reading-notes/401-31) Hooks API
