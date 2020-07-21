@@ -120,3 +120,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 30](https://d-d-wolfe.github.io/reading-notes/401-30) Hash Tables
 
 [Class 31](https://d-d-wolfe.github.io/reading-notes/401-31) Hooks API
+
+[Class 32](https://d-d-wolfe.github.io/reading-notes/401-32) Custom Hooks
