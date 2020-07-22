@@ -124,3 +124,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 32](https://d-d-wolfe.github.io/reading-notes/401-32) Custom Hooks
 
 [Class 33](https://d-d-wolfe.github.io/reading-notes/401-33) Context API
+
+[Class 34](https://d-d-wolfe.github.io/reading-notes/401-34) Authentication + Role Based Authorization
