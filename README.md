@@ -126,3 +126,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 33](https://d-d-wolfe.github.io/reading-notes/401-33) Context API
 
 [Class 34](https://d-d-wolfe.github.io/reading-notes/401-34) Authentication + Role Based Authorization
+
+[Class 35](https://d-d-wolfe.github.io/reading-notes/401-35) Graphs
