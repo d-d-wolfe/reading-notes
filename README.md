@@ -128,3 +128,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 34](https://d-d-wolfe.github.io/reading-notes/401-34) Authentication + Role Based Authorization
 
 [Class 35](https://d-d-wolfe.github.io/reading-notes/401-35) Graphs
+
+[Class 36](https://d-d-wolfe.github.io/reading-notes/401-36) Application State with Redux
