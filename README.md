@@ -132,3 +132,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 36](https://d-d-wolfe.github.io/reading-notes/401-36) Application State with Redux
 
 [Class 37](https://d-d-wolfe.github.io/reading-notes/401-37) Redux - Combined Reducers
+
+[Class 38](https://d-d-wolfe.github.io/reading-notes/401-38) Redux - Asynchronous Actions
