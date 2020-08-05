@@ -138,3 +138,5 @@ This repository is for *Dave Wolfe's* notes on the reading assigned during **Cod
 [Class 39](https://d-d-wolfe.github.io/reading-notes/401-39) Redux - Additional Topics
 
 [Class 41](https://d-d-wolfe.github.io/reading-notes/401-41) React Native
+
+[Class 43](https://d-d-wolfe.github.io/reading-notes/401-43) Gatsby, next.js, etc.
